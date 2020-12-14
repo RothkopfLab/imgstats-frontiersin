@@ -2,7 +2,7 @@
 This repository contains code for reproducing the results from our paper. It consists three main parts.
 
 ## 1. Simulating virtual agents
-Given the positions and orientations of a human participant, the notebook [`VirtualAgents`](https://github.com/dominikstrb/imgstats-frontiersin/blob/main/Virtual-Agents.ipynb) creates viewing directions of the three virtual agents (straight, down and random) used in the paper. The results are saved in `data/virtual-agents`.
+Given the positions and orientations of a human participant, the notebook [`VirtualAgents`](https://github.com/dominikstrb/imgstats-frontiersin/blob/main/Virtual-Agents.ipynb) creates viewing directions of the three virtual agents (straight, down and random) used in the paper. The results are saved in `data/virtual-agents`. The image datasets for the virtual agents were then generated from these positions and directions using a custom Unity environment. Due to its large size, it is only available upon request.
 
 ## 2. Retina projection
 
