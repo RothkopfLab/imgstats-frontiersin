@@ -1,0 +1,4 @@
+ # Image datasets
+The dataset generated and analyzed in the paper is available at https://osf.io/5xqwc/. Please download all .zip files and unpack them into data/images/human. Also download the info.txt file, which contains the visual field positions and information about the camera projection needed by the retina projection script.
+ 
+Due to its large size, the dataset contains only those images that were generated from the human viewpoint using human gaze behavior. If you would like to analyze the images from any of the other gaze strategies, please contact me: straub@psychologie.tu-darmstadt.de
