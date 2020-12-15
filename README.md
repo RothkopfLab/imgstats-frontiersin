@@ -3,7 +3,7 @@ This repository contains code for reproducing the results from our paper. It con
 
 ```
 chmod +x setup-env.sh
-./setup.env
+./setup-env.sh
 ```
 
 to set up a virtual environment, update `pip` and install all requirements.
