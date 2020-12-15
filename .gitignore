@@ -1,5 +1,6 @@
 # Data
 data/images/human
+data/images/human-transformed
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
