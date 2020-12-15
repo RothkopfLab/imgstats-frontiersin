@@ -1,4 +1,4 @@
-# Statistics of the natural input to the visual system (Straub & Rothkopf, submitted)
+# Looking for image statistics (Straub & Rothkopf, submitted)
 This repository contains code for reproducing the results from our paper. It consists three main parts.
 
 ## 1. Simulating virtual agents
