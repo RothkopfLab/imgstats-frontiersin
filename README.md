@@ -1,5 +1,5 @@
 # Looking for image statistics (Straub & Rothkopf, submitted)
-This repository contains code for reproducing the results from our paper. It consists of three main parts: simulating virtual agents, retina projection & image statistics. Before running the code, you need a Python 3 environment with all packages mentioned in `requirements.txt`. An easy way to set this up is using virtual environments. Run
+This repository contains code for reproducing the results from our paper. It consists of three main parts: simulating virtual agents, retina projection & image statistics. Before running the code, you need a Python 3 environment with all packages mentioned in `requirements.txt`. An easy way to set this up is using virtual environments. After cloning the repo and switching into the directory, run
 
 ```
 chmod +x setup-env.sh
@@ -21,3 +21,8 @@ python project.py data/images/human
 The transformed images will then be in `data/images/human-transformed`. The script reads the information about the camera's properties and the visual field positions from `info.txt` in the data directory. 
 
 ## 3. Image statistics
+A minimal working example of the image analysis methods used in the paper can be run via
+
+```
+python main.py 
+```
