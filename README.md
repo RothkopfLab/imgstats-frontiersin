@@ -11,7 +11,7 @@ to set up a virtual environment, update `pip` and install all requirements.
 To download the image dataset, go to https://osf.io/5xqwc/ and download the individual zip files, saving them to `data/images/human/` and extract them, such that the images from each visual field position are in their own directory, e.g. `data/images/human/ecc0_polar0/`.
 
 ## 1. Simulating virtual agents
-Given the positions and orientations of a human participant, the notebook [`VirtualAgents`](https://github.com/dominikstrb/imgstats-frontiersin/blob/main/Virtual-Agents.ipynb) creates viewing directions of the three virtual agents (straight, down and random) used in the paper. The results are saved in `data/virtual-agents`. The image datasets for the virtual agents were then generated from these positions and directions using a custom Unity environment. Due to its large size, it is only available upon request.
+Given the positions and orientations of a human participant, the notebook [`VirtualAgents`](https://github.com/dominikstrb/imgstats-frontiersin/blob/main/Virtual-Agents.ipynb) creates viewing directions of the three virtual agents (straight, down and random) used in the paper. The results are saved in `data/virtual-agents`. The image datasets for the virtual agents were then generated from these positions and directions using a custom Unity environment. Due to its large size, it is only available upon request: straub@psychologie.tu-darmstadt.de
 
 ## 2. Retina projection
 To project the images onto tangential planes of an idealized retina, simply run
