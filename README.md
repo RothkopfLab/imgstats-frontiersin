@@ -1,4 +1,4 @@
-# Looking for image statistics (Straub & Rothkopf, submitted)
+# Looking for image statistics (Straub & Rothkopf, 2021)
 This repository contains code for reproducing the results from our paper. It consists of three main parts: simulating virtual agents, retina projection & image statistics. Before running the code, you need a Python 3 environment with all packages mentioned in `requirements.txt`. An easy way to set this up is using virtual environments. After cloning the repo and switching into the directory, run
 
 ```
