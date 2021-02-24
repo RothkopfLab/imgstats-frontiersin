@@ -1,5 +1,9 @@
 # Looking for image statistics (Straub & Rothkopf, 2021)
-This repository contains code for reproducing the results from our paper. It consists of three main parts: simulating virtual agents, retina projection & image statistics. Before running the code, you need a Python 3 environment with all packages mentioned in `requirements.txt`. An easy way to set this up is using virtual environments. After cloning the repo and switching into the directory, run
+This repository contains code for reproducing the results from the paper:
+
+D. Straub, C. A. Rothkopf (2021). Looking for image statistics: active vision with avatars in a naturalistic virtual environment, Froniters in Psychology, 12:431, special issue on Modeling Virtual Humans for Understanding the Mind.
+
+It consists of three main parts: simulating virtual agents, retina projection & image statistics. Before running the code, you need a Python 3 environment with all packages mentioned in `requirements.txt`. An easy way to set this up is using virtual environments. After cloning the repo and switching into the directory, run
 
 ```
 chmod +x setup-env.sh
