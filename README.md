@@ -3,6 +3,7 @@
 Code for
 
 Straub, D., & Rothkopf, C. A. (2021). Looking for image statistics: active vision with avatars in a naturalistic virtual environment. Frontiers in Psychology, 12, 431, Research Topic: Modeling Virtual Humans for Understanding the Mind
+
 https://www.frontiersin.org/articles/10.3389/fpsyg.2021.641471/full
 
 This repository consists of three main parts: simulating virtual agents, retina projection & image statistics. Before running the code, you need a Python 3 environment with all packages mentioned in `requirements.txt`. An easy way to set this up is using virtual environments. After cloning the repo and switching into the directory, run
